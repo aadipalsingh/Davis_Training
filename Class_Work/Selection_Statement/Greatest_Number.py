@@ -6,7 +6,9 @@ n3 = float(input("Enter the third number: "))
 n4 = float(input("Enter the fourth number: "))
 n5 = float(input("Enter the fifth number: "))
 #finding the greatest number among five numbers
-if n1 >= n2 and n1 >= n3 and n1 >= n4 and n1 >= n5:
+if n1 == n2 == n3 == n4 == n5:
+    print("All numbers are equal.")
+elif n1 >= n2 and n1 >= n3 and n1 >= n4 and n1 >= n5:
     print(n1, "is the greatest number.")
 elif n2 >= n1 and n2 >= n3 and n2 >= n4 and n2 >= n5:
     print(n2, "is the greatest number.")
