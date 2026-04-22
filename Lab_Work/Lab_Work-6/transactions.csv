@@ -1,0 +1,6 @@
+account,type,amount
+101,deposit,5000
+101,withdraw,2000
+102,deposit,3000
+101,withdraw,4000
+102,withdraw,3500

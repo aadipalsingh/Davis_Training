@@ -1,0 +1,3 @@
+Hello contact us at support@gmail.com or sales@company.in
+Invalid emails: test@.com, user@domain, abc@xyz.
+Duplicate: support@gmail.com
